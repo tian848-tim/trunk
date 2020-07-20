@@ -1,0 +1,6 @@
+{
+"login":[{"username":"Mimi_cn","password":"123"},{"username":"Vic_cn","password":"123"},{"username":"Jack.L","password":"123"}],
+"use_vendorname":[{"name":""},{"name":"武义"}],"skuname":[{"name":""},{"name":"武义"}],
+"cnLanguage":[{"key":"开设产品线申请"},{"key":"待办事项"},{"key":"操作提示流程已启动"},{"key":"操作提示操作成功"},{"key":"注销"},{"key":"是"}],
+"enLanguage":[{"key":"Product Line"},{"key":"Task"},{"key":"OperationProcess started"},{"key":"Operationoperate success"},{"key":"Logout"},{"key":"Yes"}]
+}

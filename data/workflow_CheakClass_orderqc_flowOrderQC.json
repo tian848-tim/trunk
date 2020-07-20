@@ -1,0 +1,7 @@
+{
+"login":[{"username":"Sophia","password":"123"},{"username":"sunny_cn","password":"123"},{"username":"Yuri","password":"123"},{"username":"Vic_cn","password":"123"},{"username":"Jack.L","password":"123"},{"username":"dickson","password":"123"}],
+"use_vendorname":[{"name":"佛山市顺德区龙江镇科韵家具厂"},{"name":"武义"}],
+  "skuname":[{"name":""},{"name":"武义"}],
+"cnLanguage":[{"key":"检验类"},{"key":"订单质检申请"},{"key":"待办事项"},{"key":"没有数据！"},{"key":"操作提示流程已启动"},{"key":"操作提示操作成功"},{"key":"注销"},{"key":"是"},{"key":"相关报告"},{"key":"订单检验报告"}],
+"enLanguage":[{"key":"QC Application"},{"key":"Order QC Application"},{"key":"Task"},{"key":"No data has been provided"},{"key":"OperationProcess started"},{"key":"Operationoperate success"},{"key":"Logout"},{"key":"Yes"},{"key":"Application Reports"},{"key":"Order QC Report"}]
+}

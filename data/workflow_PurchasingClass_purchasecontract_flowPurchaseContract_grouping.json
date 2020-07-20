@@ -1,0 +1,10 @@
+{
+"login":[{"username":"Sophia","password":"123"},{"username":"Mimi_cn","password":"123"},{"username":"Vic_cn","password":"123"},{"username":"Jack.L","password":"123"},{"username":"Jack.L","password":"123"},{"username":"emma","password":"123"}],
+"use_vendorname":[{"name":""},{"name":"武义"}],
+"originPort":[{"key":"宁波"}],
+"itemId":[{"key":"1"}],
+"price":[{"key":"10"}],
+"writeoffMethod":[{"key":"合同尾款内"}],
+"cnLanguage":[{"key":"采购合同申请"},{"key":"待办事项"},{"key":"没有数据！"},{"key":"合同尾款内"},{"key":"操作提示流程已启动"},{"key":"操作提示操作成功"},{"key":"注销"},{"key":"是"},{"key":"熏蒸费"},{"key":"合同订金内"}],
+"enLanguage":[{"key":"Purchase Contract Application"},{"key":"Task"},{"key":"No data has been provided"},{"key":"Under Contract Balance"},{"key":"OperationProcess started"},{"key":"Operationoperate success"},{"key":"Logout"},{"key":"Yes"},{"key":"Fumigation Fee"},{"key":"Under Contract Deposit"}]
+}

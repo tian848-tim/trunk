@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/case/Wokflow/test_flow_purchase_plan/workflow_PurchasingClass_purchaseplan_flowPurchasePlan_grouping.py" line="807" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d44b894-a317-4bb4-92c4-8e0c98c95247" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_purchaseContract_test_PurchaseContract.coverage" NAME="Unittests for test32.purchaseContract.test_PurchaseContract Coverage Results" MODIFIED="1576564216175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$_20190423111507.coverage" NAME="下载文件_20190423111507 Coverage Results" MODIFIED="1556005405855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/testing_client_for_win7_v2.6.1/var/download" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_FlowSamplePayment_test_FlowSamplePayment.coverage" NAME="Unittests for test32.FlowSamplePayment.test_FlowSamplePayment Coverage Results" MODIFIED="1577083250167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_CustomClearance_test_CustomClearance.coverage" NAME="Unittests for test32.CustomClearance.test_CustomClearance Coverage Results" MODIFIED="1584436947260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_FlowOrderShippingApply_test_FlowOrderShippingApply.coverage" NAME="Unittests for test38.FlowOrderShippingApply.test_FlowOrderShippingApply Coverage Results" MODIFIED="1586409555711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test29_FeeRegister.coverage" NAME="Unittests for test29.FeeRegister Coverage Results" MODIFIED="1583982550197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_NewProduct.coverage" NAME="Unittests for test38.NewProduct Coverage Results" MODIFIED="1586152972951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_purchaseContract.coverage" NAME="Unittests for test32.purchaseContract Coverage Results" MODIFIED="1584435990066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_ComplianceExtend_test_Compliance_Extend.coverage" NAME="Unittests for test38.ComplianceExtend.test_Compliance_Extend Coverage Results" MODIFIED="1586418743906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_Brand_Refund_test_flow_balance_refund.coverage" NAME="Unittests for Brand.Refund.test_flow_balance_refund Coverage Results" MODIFIED="1568701913383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_ProductDocument_VendorCategory_test_vendorcategory.coverage" NAME="Unittests for ProductDocument.VendorCategory.test_vendorcategory Coverage Results" MODIFIED="1586850780754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_CheakClass_orderqc_flowOrderQC_grouping_OrderQc_test_Order_Qc.coverage" NAME="Unittests for workflow_CheakClass_orderqc_flowOrderQC_grouping.OrderQc.test_Order_Qc Coverage Results" MODIFIED="1568097559906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_purchaseContract_test_FlowPurchaseContractDeposit.coverage" NAME="Unittests for test32.purchaseContract.test_FlowPurchaseContractDeposit Coverage Results" MODIFIED="1574673282013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_purchasePlan.coverage" NAME="Unittests for test32.purchasePlan Coverage Results" MODIFIED="1576487507824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test18_CustomClearance.coverage" NAME="Unittests for test18.CustomClearance Coverage Results" MODIFIED="1556071330553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_in_purchaseDetailLogtestCN_py.coverage" NAME="Unittests in purchaseDetailLogtestCN.py Coverage Results" MODIFIED="1569313184560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test20_test_flowsample_json_test_productquotation.coverage" NAME="Unittests for test20.test_flowsample_json.test_productquotation Coverage Results" MODIFIED="1562555274819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_FeeRegister_test_flow_fee_register.coverage" NAME="Unittests for test32.FeeRegister.test_flow_fee_register Coverage Results" MODIFIED="1577084226887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_ProductLine_test_ProductLine.coverage" NAME="Unittests for test38.ProductLine.test_ProductLine Coverage Results" MODIFIED="1588667584586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_PurchasingClass_productline_FlowProductLine_ProductLine.coverage" NAME="Unittests for workflow_PurchasingClass_productline_FlowProductLine.ProductLine Coverage Results" MODIFIED="1588667321655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/workflow_PurchasingClass_productline_FlowProductLine" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_purchaseDetailLogtestCN_purchaseContract.coverage" NAME="Unittests for purchaseDetailLogtestCN.purchaseContract Coverage Results" MODIFIED="1576657293913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_in_test38_py.coverage" NAME="Unittests in test38.py Coverage Results" MODIFIED="1592383754300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test24_CustomClearance.coverage" NAME="Unittests for test24.CustomClearance Coverage Results" MODIFIED="1567661313859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_in_test37_py.coverage" NAME="Unittests in test37.py Coverage Results" MODIFIED="1594599450369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test12_CustomClearance.coverage" NAME="Unittests for test12.CustomClearance Coverage Results" MODIFIED="1566887518939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_ShippingClass_ordershippingplan_FlowOrderShippingPlan_grouping_CustomClearance_test_OrderShippingPlan.coverage" NAME="Unittests for workflow_ShippingClass_ordershippingplan_FlowOrderShippingPlan_grouping.CustomClearance.test_OrderShippingPlan Coverage Results" MODIFIED="1569378409531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_VendorCategory.coverage" NAME="Unittests for test32.VendorCategory Coverage Results" MODIFIED="1577082060546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_ChangeOwnership_test_ChangeOwnership.coverage" NAME="Unittests for test32.ChangeOwnership.test_ChangeOwnership Coverage Results" MODIFIED="1577079468175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_in_test32_py.coverage" NAME="Unittests in test32.py Coverage Results" MODIFIED="1577079819710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_ChangeOrderQty_test_ChangeOrderQty.coverage" NAME="Unittests for test32.ChangeOrderQty.test_ChangeOrderQty Coverage Results" MODIFIED="1576650302683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test12_CustomClearance_test_CustomClearance.coverage" NAME="Unittests for test12.CustomClearance.test_CustomClearance Coverage Results" MODIFIED="1566886799468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_FeePayment.coverage" NAME="Unittests for test32.FeePayment Coverage Results" MODIFIED="1584437330056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_PurchasingClass_purchasecontract_flowPurchaseContract_purchaseContract_test_PurchaseContract.coverage" NAME="Unittests for workflow_PurchasingClass_purchasecontract_flowPurchaseContract.purchaseContract.test_PurchaseContract Coverage Results" MODIFIED="1569313223914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/Wokflow/test_flow_purchase_contract" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_CheakClass_orderqc_flowOrderQC_grouping_OrderQc.coverage" NAME="Unittests for workflow_CheakClass_orderqc_flowOrderQC_grouping.OrderQc Coverage Results" MODIFIED="1569313240814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test30_CustomClearance_test_CustomClearance.coverage" NAME="Unittests for test30.CustomClearance.test_CustomClearance Coverage Results" MODIFIED="1578037470650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_ShippingClass_ordershippingapply_FlowOrderShippingApply_grouping_FlowOrderShippingApply.coverage" NAME="Unittests for workflow_ShippingClass_ordershippingapply_FlowOrderShippingApply_grouping.FlowOrderShippingApply Coverage Results" MODIFIED="1568626081727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$run.coverage" NAME="run Coverage Results" MODIFIED="1592535835550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_Tariff_search_ProductCategory.coverage" NAME="Unittests for Tariff_search.ProductCategory Coverage Results" MODIFIED="1564716089911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$test33.coverage" NAME="test33 Coverage Results" MODIFIED="1578270333727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$logger.coverage" NAME="logger Coverage Results" MODIFIED="1592385671405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_Tariff_search1_ProductCategory_test_ProductCategory.coverage" NAME="Unittests for Tariff_search1.ProductCategory.test_ProductCategory Coverage Results" MODIFIED="1564640331946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_PurchasingClass_purchasecontract_flowPurchaseContract_WrittenDocuments_purchaseContract.coverage" NAME="Unittests for workflow_PurchasingClass_purchasecontract_flowPurchaseContract_WrittenDocuments.purchaseContract Coverage Results" MODIFIED="1558330297783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$test27.coverage" NAME="test27 Coverage Results" MODIFIED="1568276824121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_in_test29_py.coverage" NAME="Unittests in test29.py Coverage Results" MODIFIED="1583982958748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_PurchasingClass_purchaseplan_flowPurchasePlan_WrittenDocuments_purchasePlan_test_PurchasePlan.coverage" NAME="Unittests for workflow_PurchasingClass_purchaseplan_flowPurchasePlan_WrittenDocuments.purchasePlan.test_PurchasePlan Coverage Results" MODIFIED="1557471996264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_FeeRegister.coverage" NAME="Unittests for test32.FeeRegister Coverage Results" MODIFIED="1576744466869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_FlowOrderShippingApply.coverage" NAME="Unittests for test38.FlowOrderShippingApply Coverage Results" MODIFIED="1592286399751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_FeeRegister_test_flowFeeRegister.coverage" NAME="Unittests for test38.FeeRegister.test_flowFeeRegister Coverage Results" MODIFIED="1592464591334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_in_test21_py.coverage" NAME="Unittests in test21.py Coverage Results" MODIFIED="1564557464035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_in_workflow_ShippingClass_ordershippingapply_FlowOrderShippingApply_grouping_py.coverage" NAME="Unittests in workflow_ShippingClass_ordershippingapply_FlowOrderShippingApply_grouping.py Coverage Results" MODIFIED="1568018257165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test37_Refund.coverage" NAME="Unittests for test37.Refund Coverage Results" MODIFIED="1592191748827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test23_purchaseContract_test_FlowPurchaseContractDeposit.coverage" NAME="Unittests for test23.purchaseContract.test_FlowPurchaseContractDeposit Coverage Results" MODIFIED="1566262479934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$dbModels.coverage" NAME="dbModels Coverage Results" MODIFIED="1592535930605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_sample_test_SampleQc.coverage" NAME="Unittests for test38.sample.test_SampleQc Coverage Results" MODIFIED="1590050691245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$test31.coverage" NAME="test31 Coverage Results" MODIFIED="1571735822909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test24_purchasePlan.coverage" NAME="Unittests for test24.purchasePlan Coverage Results" MODIFIED="1568168118860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1592471709498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test30_CustomClearance.coverage" NAME="Unittests for test30.CustomClearance Coverage Results" MODIFIED="1578037462890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test20_purchasePlan_test_PurchasePlan.coverage" NAME="Unittests for test20.purchasePlan.test_PurchasePlan Coverage Results" MODIFIED="1563433226590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_NewProduct_test_NewProduct.coverage" NAME="Unittests for test32.NewProduct.test_NewProduct Coverage Results" MODIFIED="1577078165861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_CheckClass_complianceApply_FlowComplianceApply_complianceApply.coverage" NAME="Unittests for workflow_CheckClass_complianceApply_FlowComplianceApply.complianceApply Coverage Results" MODIFIED="1585556107553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/workflow_CheckClass_complianceApply_FlowComplianceApply" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test7_CustomClearance_test_CustomClearance.coverage" NAME="Unittests for test7.CustomClearance.test_CustomClearance Coverage Results" MODIFIED="1560493574222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_in_Tariff_search_py.coverage" NAME="Unittests in Tariff_search.py Coverage Results" MODIFIED="1564715533004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_CustomClearance_test_CustomClearance.coverage" NAME="Unittests for test38.CustomClearance.test_CustomClearance Coverage Results" MODIFIED="1592813467571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_FeeRegister_test_flowFeeRegister.coverage" NAME="Unittests for test32.FeeRegister.test_flowFeeRegister Coverage Results" MODIFIED="1584437094279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test23_purchaseContract_test_purchaseDetailLogtestCN.coverage" NAME="Unittests for test23.purchaseContract.test_purchaseDetailLogtestCN Coverage Results" MODIFIED="1567478415617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_complianceApply_test_flow_compliance_apply.coverage" NAME="Unittests for test32.complianceApply.test_flow_compliance_apply Coverage Results" MODIFIED="1577080028447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_Brand_Refund.coverage" NAME="Unittests for Brand.Refund Coverage Results" MODIFIED="1568701491581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_in_Tariff_search1_py.coverage" NAME="Unittests in Tariff_search1.py Coverage Results" MODIFIED="1564618974389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_FeePayment_test_FlowFeePayment.coverage" NAME="Unittests for test38.FeePayment.test_FlowFeePayment Coverage Results" MODIFIED="1592288569553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test24_CustomClearance_test_CustomClearance.coverage" NAME="Unittests for test24.CustomClearance.test_CustomClearance Coverage Results" MODIFIED="1567661775084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_ProductLine_test_ProductLine.coverage" NAME="Unittests for test32.ProductLine.test_ProductLine Coverage Results" MODIFIED="1577079615199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_VendorCategory.coverage" NAME="Unittests for test38.VendorCategory Coverage Results" MODIFIED="1586331595153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_in_NewProductDocument_py.coverage" NAME="Unittests in NewProductDocument.py Coverage Results" MODIFIED="1592203387281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test20_FeeRegister.coverage" NAME="Unittests for test20.FeeRegister Coverage Results" MODIFIED="1562304482179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_OrderQc_test_Order_Qc.coverage" NAME="Unittests for test38.OrderQc.test_Order_Qc Coverage Results" MODIFIED="1589533692651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_test_flowsample_json_test_productquotation.coverage" NAME="Unittests for test38.test_flowsample_json.test_productquotation Coverage Results" MODIFIED="1592812038563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_CustomClearance_test_OrderShippingPlan.coverage" NAME="Unittests for test38.CustomClearance.test_OrderShippingPlan Coverage Results" MODIFIED="1586337646596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_FlowWarehousePlan.coverage" NAME="Unittests for test38.FlowWarehousePlan Coverage Results" MODIFIED="1592289433715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_ChangePayment_Refund.coverage" NAME="Unittests for ChangePayment.Refund Coverage Results" MODIFIED="1568768647901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$test28.coverage" NAME="test28 Coverage Results" MODIFIED="1569574113455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_purchasePlan_test_PurchasePlan.coverage" NAME="Unittests for test32.purchasePlan.test_PurchasePlan Coverage Results" MODIFIED="1577078715798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$test34.coverage" NAME="test34 Coverage Results" MODIFIED="1578270111757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/trunk$test37.coverage" NAME="test37 Coverage Results" MODIFIED="1577169412713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_centerTabPanel_VendorCategory.coverage" NAME="Unittests for centerTabPanel.VendorCategory Coverage Results" MODIFIED="1576049875128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_purchasePlan_test_PurchasePlan.coverage" NAME="Unittests for test38.purchasePlan.test_PurchasePlan Coverage Results" MODIFIED="1592812820066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test18_purchaseContract_test_PurchaseContract.coverage" NAME="Unittests for test18.purchaseContract.test_PurchaseContract Coverage Results" MODIFIED="1556759264099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_FlowWarehousePlan_test_FlowWarehousePlan.coverage" NAME="Unittests for test38.FlowWarehousePlan.test_FlowWarehousePlan Coverage Results" MODIFIED="1592288958954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test24_tomtest_test_tomtestRS.coverage" NAME="Unittests for test24.tomtest.test_tomtestRS Coverage Results" MODIFIED="1567153044464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_FeePayment.coverage" NAME="Unittests for test38.FeePayment Coverage Results" MODIFIED="1584348780013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_sample_test_Sample.coverage" NAME="Unittests for test32.sample.test_Sample Coverage Results" MODIFIED="1577078515697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_ProductMonitor_Refund.coverage" NAME="Unittests for ProductMonitor.Refund Coverage Results" MODIFIED="1568766610687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test_seventest_test_seventestdetail.coverage" NAME="Unittests for test.seventest.test_seventestdetail Coverage Results" MODIFIED="1556089712231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_FeePayment_test_FlowFeePayment.coverage" NAME="Unittests for test32.FeePayment.test_FlowFeePayment Coverage Results" MODIFIED="1584437248653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_in_ProductDocument_py.coverage" NAME="Unittests in ProductDocument.py Coverage Results" MODIFIED="1590051531909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_ProductCombination_BatchEditing_VendorCategory.coverage" NAME="Unittests for ProductCombination_BatchEditing.VendorCategory Coverage Results" MODIFIED="1571989768708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test29_NewProduct_test_NewProduct.coverage" NAME="Unittests for test29.NewProduct.test_NewProduct Coverage Results" MODIFIED="1570612056306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$test39.coverage" NAME="test39 Coverage Results" MODIFIED="1592536228626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test25_purchaseContract_test_PurchaseContract.coverage" NAME="Unittests for test25.purchaseContract.test_PurchaseContract Coverage Results" MODIFIED="1568017521408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$test37__1_.coverage" NAME="test37 (1) Coverage Results" MODIFIED="1583109673568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_ChangeOwnership.coverage" NAME="Unittests for test38.ChangeOwnership Coverage Results" MODIFIED="1587092192216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_FeeRegister.coverage" NAME="Unittests for test38.FeeRegister Coverage Results" MODIFIED="1592464510890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_purchaseDetailLogtestCN_purchaseContract_test_purchaseDetailLogtestCN.coverage" NAME="Unittests for purchaseDetailLogtestCN.purchaseContract.test_purchaseDetailLogtestCN Coverage Results" MODIFIED="1570002468790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_FlowSamplePayment.coverage" NAME="Unittests for test32.FlowSamplePayment Coverage Results" MODIFIED="1577082930380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_Tariff_search1_ProductCategory.coverage" NAME="Unittests for Tariff_search1.ProductCategory Coverage Results" MODIFIED="1564640394688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_ProductLine.coverage" NAME="Unittests for test32.ProductLine Coverage Results" MODIFIED="1576471372213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test18_FeeRegister_test_flow_fee_register.coverage" NAME="Unittests for test18.FeeRegister.test_flow_fee_register Coverage Results" MODIFIED="1565839798317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test24_purchasePlan_test_PurchasePlan.coverage" NAME="Unittests for test24.purchasePlan.test_PurchasePlan Coverage Results" MODIFIED="1568168812102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_VendorCategory_test_vendorcategory.coverage" NAME="Unittests for test38.VendorCategory.test_vendorcategory Coverage Results" MODIFIED="1590389415701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_complianceApply_test_flow_compliance_apply.coverage" NAME="Unittests for test38.complianceApply.test_flow_compliance_apply Coverage Results" MODIFIED="1590051083606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_NewProductDocument_VendorCategory.coverage" NAME="Unittests for NewProductDocument.VendorCategory Coverage Results" MODIFIED="1573717824723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_FinancialClass_purchasecontractdeposit_FlowPurchaseContractDeposit_grouping_purchaseContract_test_FlowPurchaseContractDeposit.coverage" NAME="Unittests for workflow_FinancialClass_purchasecontractdeposit_FlowPurchaseContractDeposit_grouping.purchaseContract.test_FlowPurchaseContractDeposit Coverage Results" MODIFIED="1568098232794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_libs_MainTestCase.coverage" NAME="Unittests for libs.MainTestCase Coverage Results" MODIFIED="1569565674397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test23_purchaseContract.coverage" NAME="Unittests for test23.purchaseContract Coverage Results" MODIFIED="1567469431284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_test_flowsample_json.coverage" NAME="Unittests for test32.test_flowsample_json Coverage Results" MODIFIED="1584429814264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test39_UnittestCaseSecond_test_equal.coverage" NAME="Unittests for test39.UnittestCaseSecond.test_equal Coverage Results" MODIFIED="1592381224233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test_seventest.coverage" NAME="Unittests for test.seventest Coverage Results" MODIFIED="1556173043363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test30_purchaseContract_test_PurchaseContract.coverage" NAME="Unittests for test30.purchaseContract.test_PurchaseContract Coverage Results" MODIFIED="1571105029124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_in_test6_py.coverage" NAME="Unittests in test6.py Coverage Results" MODIFIED="1559895614629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test19_CustomClearance_test_CustomClearance.coverage" NAME="Unittests for test19.CustomClearance.test_CustomClearance Coverage Results" MODIFIED="1557818309159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test30_purchaseContract.coverage" NAME="Unittests for test30.purchaseContract Coverage Results" MODIFIED="1571106542223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$test24.coverage" NAME="test24 Coverage Results" MODIFIED="1566202609621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_FlowWarehousePlan_test_FlowWarehousePlan.coverage" NAME="Unittests for test32.FlowWarehousePlan.test_FlowWarehousePlan Coverage Results" MODIFIED="1577082618868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$config.coverage" NAME="config Coverage Results" MODIFIED="1592472185870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_ChangeOrderQty_ChangeOrderQty_test_ChangeOrderQty.coverage" NAME="Unittests for ChangeOrderQty.ChangeOrderQty.test_ChangeOrderQty Coverage Results" MODIFIED="1576055318813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test24_tomtest.coverage" NAME="Unittests for test24.tomtest Coverage Results" MODIFIED="1567153089022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_ComplianceExtend_test_Compliance_Extend.coverage" NAME="Unittests for test32.ComplianceExtend.test_Compliance_Extend Coverage Results" MODIFIED="1577081749247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_in_NewProductDocument_positive_py.coverage" NAME="Unittests in NewProductDocument_positive.py Coverage Results" MODIFIED="1586332422449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test37_Refund_test_uid_chat.coverage" NAME="Unittests for test37.Refund.test_uid_chat Coverage Results" MODIFIED="1592786515945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_test_flowsample_json.coverage" NAME="Unittests for test38.test_flowsample_json Coverage Results" MODIFIED="1586152828133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_CustomClearance.coverage" NAME="Unittests for test38.CustomClearance Coverage Results" MODIFIED="1592285997247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test22_TestA.coverage" NAME="Unittests for test22.TestA Coverage Results" MODIFIED="1564557521136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test2_purchaseContract.coverage" NAME="Unittests for test2.purchaseContract Coverage Results" MODIFIED="1570523864466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_ShippingClass_ordershippingplan_FlowOrderShippingPlan_CustomClearance_test_CustomClearance.coverage" NAME="Unittests for workflow_ShippingClass_ordershippingplan_FlowOrderShippingPlan.CustomClearance.test_CustomClearance Coverage Results" MODIFIED="1576481680504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/workflow_ShippingClass_ordershippingplan_FlowOrderShippingPlan" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_CustomClearance.coverage" NAME="Unittests for test32.CustomClearance Coverage Results" MODIFIED="1584436085167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$test19.coverage" NAME="test19 Coverage Results" MODIFIED="1556183291366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_purchaseContract_test_PurchaseContract.coverage" NAME="Unittests for test38.purchaseContract.test_PurchaseContract Coverage Results" MODIFIED="1592808617385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test20_purchaseContract_test_PurchaseContract.coverage" NAME="Unittests for test20.purchaseContract.test_PurchaseContract Coverage Results" MODIFIED="1562222947835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test20_purchasePlan.coverage" NAME="Unittests for test20.purchasePlan Coverage Results" MODIFIED="1563432817637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_NewProductDocument_VendorCategory_test_vendorcategory.coverage" NAME="Unittests for NewProductDocument.VendorCategory.test_vendorcategory Coverage Results" MODIFIED="1568939412575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_NewProduct.coverage" NAME="Unittests for test32.NewProduct Coverage Results" MODIFIED="1576483688441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test18_FeeRegister.coverage" NAME="Unittests for test18.FeeRegister Coverage Results" MODIFIED="1565838847393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test1_FeeRegister.coverage" NAME="Unittests for test1.FeeRegister Coverage Results" MODIFIED="1556009018438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_PurchasingClass_productquotation_flowProductQuotation_test_flowsample_json.coverage" NAME="Unittests for workflow_PurchasingClass_productquotation_flowProductQuotation.test_flowsample_json Coverage Results" MODIFIED="1562553905397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/Wokflow/test_flow_product_quotation" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_purchaseDetailLogtestCN_purchaseContract_test_FlowPurchaseContractDeposit.coverage" NAME="Unittests for purchaseDetailLogtestCN.purchaseContract.test_FlowPurchaseContractDeposit Coverage Results" MODIFIED="1566261544195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_OrderQc_test_Order_Qc.coverage" NAME="Unittests for test32.OrderQc.test_Order_Qc Coverage Results" MODIFIED="1584436602065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_CheckClass_complianceApply_FlowComplianceApply_complianceApply_test_flow_compliance_apply.coverage" NAME="Unittests for workflow_CheckClass_complianceApply_FlowComplianceApply.complianceApply.test_flow_compliance_apply Coverage Results" MODIFIED="1585555819617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/workflow_CheckClass_complianceApply_FlowComplianceApply" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_test_flowsample_json_test_productquotation.coverage" NAME="Unittests for test32.test_flowsample_json.test_productquotation Coverage Results" MODIFIED="1584431749185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_Refund_test_flow_balance_refund.coverage" NAME="Unittests for test32.Refund.test_flow_balance_refund Coverage Results" MODIFIED="1577085825720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test20_purchaseContract_test_FlowPurchaseContractDeposit.coverage" NAME="Unittests for test20.purchaseContract.test_FlowPurchaseContractDeposit Coverage Results" MODIFIED="1567413726378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_centerTabPanel_VendorCategory_test_vendorcategory.coverage" NAME="Unittests for centerTabPanel.VendorCategory.test_vendorcategory Coverage Results" MODIFIED="1576051742468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_ChangeOwnership.coverage" NAME="Unittests for test32.ChangeOwnership Coverage Results" MODIFIED="1574664551707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_Tariff_search_ProductCategory_test_ProductCategory.coverage" NAME="Unittests for Tariff_search.ProductCategory.test_ProductCategory Coverage Results" MODIFIED="1564729777389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_sample.coverage" NAME="Unittests for test32.sample Coverage Results" MODIFIED="1574669600289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_FlowOrderShippingApply.coverage" NAME="Unittests for test32.FlowOrderShippingApply Coverage Results" MODIFIED="1584436335843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test28_CustomClearance_test_CustomClearance.coverage" NAME="Unittests for test28.CustomClearance.test_CustomClearance Coverage Results" MODIFIED="1569480243978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test20_purchaseContract.coverage" NAME="Unittests for test20.purchaseContract Coverage Results" MODIFIED="1563520712052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test18_purchaseContract.coverage" NAME="Unittests for test18.purchaseContract Coverage Results" MODIFIED="1556760148112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_NewProductDocument_VendorCategory_test_NewProductDocument.coverage" NAME="Unittests for NewProductDocument.VendorCategory.test_NewProductDocument Coverage Results" MODIFIED="1586164786567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_ShippingClass_ordershippingplan_FlowOrderShippingPlan_grouping_CustomClearance.coverage" NAME="Unittests for workflow_ShippingClass_ordershippingplan_FlowOrderShippingPlan_grouping.CustomClearance Coverage Results" MODIFIED="1569378667503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_sample.coverage" NAME="Unittests for test38.sample Coverage Results" MODIFIED="1586850192752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_in_test24_py.coverage" NAME="Unittests in test24.py Coverage Results" MODIFIED="1567152702303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_ProductMonitor_Refund_test_flow_balance_refund.coverage" NAME="Unittests for ProductMonitor.Refund.test_flow_balance_refund Coverage Results" MODIFIED="1568766805986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test6_CustomClearance_test_CustomClearance.coverage" NAME="Unittests for test6.CustomClearance.test_CustomClearance Coverage Results" MODIFIED="1560493432072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_sample_test_SampleQc.coverage" NAME="Unittests for test32.sample.test_SampleQc Coverage Results" MODIFIED="1577080330112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_complianceApply.coverage" NAME="Unittests for test32.complianceApply Coverage Results" MODIFIED="1577079904737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_OrderQc.coverage" NAME="Unittests for test32.OrderQc Coverage Results" MODIFIED="1576485375570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test22_TestA_test_a.coverage" NAME="Unittests for test22.TestA.test_a Coverage Results" MODIFIED="1564557517067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_PurchasingClass_purchasecontract_flowPurchaseContract_WrittenDocuments_purchaseContract_test_PurchaseContract.coverage" NAME="Unittests for workflow_PurchasingClass_purchasecontract_flowPurchaseContract_WrittenDocuments.purchaseContract.test_PurchaseContract Coverage Results" MODIFIED="1558406060040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_ProductCombination_BatchEditing_VendorCategory_test_vendorcategory.coverage" NAME="Unittests for ProductCombination_BatchEditing.VendorCategory.test_vendorcategory Coverage Results" MODIFIED="1571989681815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_in_test20_py.coverage" NAME="Unittests in test20.py Coverage Results" MODIFIED="1562303664805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_purchaseContract.coverage" NAME="Unittests for test38.purchaseContract Coverage Results" MODIFIED="1592813131363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_in_purchaseContractDetailLogtest_O_py.coverage" NAME="Unittests in purchaseContractDetailLogtest-O.py Coverage Results" MODIFIED="1570775251279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test22_TestA_test_b.coverage" NAME="Unittests for test22.TestA.test_b Coverage Results" MODIFIED="1564552435702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$test36.coverage" NAME="test36 Coverage Results" MODIFIED="1594599813150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_NewProduct_test_NewProduct.coverage" NAME="Unittests for test38.NewProduct.test_NewProduct Coverage Results" MODIFIED="1592812213602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_VendorCategory_test_NewProductDocument.coverage" NAME="Unittests for test38.VendorCategory.test_NewProductDocument Coverage Results" MODIFIED="1586331571488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_ChangePayment_Refund_test_flow_balance_refund.coverage" NAME="Unittests for ChangePayment.Refund.test_flow_balance_refund Coverage Results" MODIFIED="1568772888439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$delete_product_import.coverage" NAME="delete_product_import Coverage Results" MODIFIED="1577698206149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_ServiceProviderQuotation.coverage" NAME="Unittests for test32.ServiceProviderQuotation Coverage Results" MODIFIED="1577081961638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_PurchasingClass_purchasecontract_flowPurchaseContract_grouping_purchaseContract_test_PurchaseContract.coverage" NAME="Unittests for workflow_PurchasingClass_purchasecontract_flowPurchaseContract_grouping.purchaseContract.test_PurchaseContract Coverage Results" MODIFIED="1569377356036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test25_purchaseContract.coverage" NAME="Unittests for test25.purchaseContract Coverage Results" MODIFIED="1584065198724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_complianceApply.coverage" NAME="Unittests for test38.complianceApply Coverage Results" MODIFIED="1586330019861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test20_test_flowsample_json.coverage" NAME="Unittests for test20.test_flowsample_json Coverage Results" MODIFIED="1562547338786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_ServiceProviderQuotation.coverage" NAME="Unittests for test38.ServiceProviderQuotation Coverage Results" MODIFIED="1586159524487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test20_FeeRegister_test_flow_fee_register.coverage" NAME="Unittests for test20.FeeRegister.test_flow_fee_register Coverage Results" MODIFIED="1562305127910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_FlowOrderShippingApply_test_FlowOrderShippingApply.coverage" NAME="Unittests for test32.FlowOrderShippingApply.test_FlowOrderShippingApply Coverage Results" MODIFIED="1577082425849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_PurchasingClass_purchasecontract_flowPurchaseContract_grouping_purchaseContract__1_.coverage" NAME="Unittests for workflow_PurchasingClass_purchasecontract_flowPurchaseContract_grouping.purchaseContract (1) Coverage Results" MODIFIED="1569313889623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$dbModels__1_.coverage" NAME="dbModels (1) Coverage Results" MODIFIED="1569570118120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_ProductCombination_approval_VendorCategory_test_vendorcategory.coverage" NAME="Unittests for ProductCombination_approval.VendorCategory.test_vendorcategory Coverage Results" MODIFIED="1571994887828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_PurchasingClass_purchasecontract_flowPurchaseContract_grouping_purchaseContract.coverage" NAME="Unittests for workflow_PurchasingClass_purchasecontract_flowPurchaseContract_grouping.purchaseContract Coverage Results" MODIFIED="1569313228670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/Wokflow/test_flow_purchase_contract" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_workflow_PurchasingClass_purchaseplan_flowPurchasePlan_WrittenDocuments_purchasePlan.coverage" NAME="Unittests for workflow_PurchasingClass_purchaseplan_flowPurchasePlan_WrittenDocuments.purchasePlan Coverage Results" MODIFIED="1558405543941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test2_purchaseContract_test_PurchaseContract.coverage" NAME="Unittests for test2.purchaseContract.test_PurchaseContract Coverage Results" MODIFIED="1570610911583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_sample_test_Sample.coverage" NAME="Unittests for test38.sample.test_Sample Coverage Results" MODIFIED="1592812621033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test29_NewProduct.coverage" NAME="Unittests for test29.NewProduct Coverage Results" MODIFIED="1570612083841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_FeeRegister_test_flow_fee_register.coverage" NAME="Unittests for test38.FeeRegister.test_flow_fee_register Coverage Results" MODIFIED="1592818084785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_ComplianceExtend.coverage" NAME="Unittests for test32.ComplianceExtend Coverage Results" MODIFIED="1576475193176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$test26.coverage" NAME="test26 Coverage Results" MODIFIED="1568275396672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_ChangeOwnership_test_ChangeOwnership.coverage" NAME="Unittests for test38.ChangeOwnership.test_ChangeOwnership Coverage Results" MODIFIED="1588668212574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test18_CustomClearance_test_CustomClearance.coverage" NAME="Unittests for test18.CustomClearance.test_CustomClearance Coverage Results" MODIFIED="1556008554966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1556005845928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_FlowWarehousePlan.coverage" NAME="Unittests for test32.FlowWarehousePlan Coverage Results" MODIFIED="1576636250405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_FlowAsn_test_FlowAsn.coverage" NAME="Unittests for test32.FlowAsn.test_FlowAsn Coverage Results" MODIFIED="1577082729521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_OrderQc.coverage" NAME="Unittests for test38.OrderQc Coverage Results" MODIFIED="1586844821242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test32_VendorCategory_test_CustomClearance.coverage" NAME="Unittests for test32.VendorCategory.test_CustomClearance Coverage Results" MODIFIED="1577082119268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/trunk$Unittests_for_test38_purchasePlan.coverage" NAME="Unittests for test38.purchasePlan Coverage Results" MODIFIED="1592812864869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/test38.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1978">
+              <caret line="86" column="17" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/case/workflow_FinancialClass_feepayment_FlowFeePayment/workflow_FinancialClass_feepayment_FlowFeePayment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="606">
+              <caret line="147" column="31" selection-start-line="147" selection-start-column="18" selection-end-line="147" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/test36.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+              <folding>
+                <element signature="e#13#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/test37.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+              <folding>
+                <element signature="e#17#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>240</find>
+      <find>120</find>
+      <find>purchaseType</find>
+      <find>VendorDialogWinGridPanelID-body</find>
+      <find>ProductDialogWinGridPanelID-body</find>
+      <find>data-recordindex</find>
+      <find>ProductCombinationView</find>
+      <find>flowNextHandlerAccount</find>
+      <find>receiveStartDate</find>
+      <find>header-topnav</find>
+      <find>appNavTabPanel</find>
+      <find>FlowNewProductViewGridPanelID-body</find>
+      <find>inNumber1</find>
+      <find>print(prepare_list['inNumbers' + str(index)])</find>
+      <find>time[0]</find>
+      <find>__getattr__</find>
+      <find>WOOD-C-TDC-330-BK</find>
+      <find>containerNumber</find>
+      <find>支付金额正确</find>
+      <find>FlowFeePaymentSubGridPanelID-price-body</find>
+      <find>FlowFeeRegistrationSubGridPanelID-project-normal-body</find>
+      <find>totalPrice</find>
+      <find>er</find>
+      <find>reportFileDocumentName</find>
+      <find>新品开发申请</find>
+      <find>_er</find>
+      <find>ad</find>
+      <find>deposit</find>
+      <find>x-form-layout-table</find>
+      <find>lg[8]</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>60</replace>
+      <replace>2</replace>
+      <replace>self.driver.implicitly_wait(60)</replace>
+      <replace>120</replace>
+      <replace>240</replace>
+      <replace>300</replace>
+      <replace>1</replace>
+      <replace>2020</replace>
+      <replace>FlowFeePaymentSubGridPanelID-price-body</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\trunk\case</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data/workflow_CheckClass_complianceextend_flowComplianceExtend.json" />
+        <option value="$PROJECT_DIR$/case/workflow_CheckClass_complianceextend_flowComplianceExtend/workflow_CheckClass_complianceextend_flowComplianceExtend.py" />
+        <option value="$PROJECT_DIR$/case/workflow_PurchasingClass_changeownership_flowChangeOwnership/workflow_PurchasingClass_changeownership_flowChangeOwnership.py" />
+        <option value="$PROJECT_DIR$/data/test_PurchaseContract2020-04-09.json" />
+        <option value="$PROJECT_DIR$/data/workflow_CheakClass_orderqc_flowOrderQC_grouping.json" />
+        <option value="$PROJECT_DIR$/data/workflow_PurchasingClass_customclearance_flowCustomClearance_grouping.json" />
+        <option value="$PROJECT_DIR$/case/workflow_ShippingClass_warehouseplan_FlowWarehousePlan/workflow_ShippingClass_warehouseplan_FlowWarehousePlan.py" />
+        <option value="$PROJECT_DIR$/data/workflow_PurchasingClass_changeownership_flowChangeOwnership.json" />
+        <option value="$PROJECT_DIR$/data/workflow_PurchasingClass_productline_FlowProductLine.json" />
+        <option value="$PROJECT_DIR$/case/workflow_CheakClass_orderqc_flowOrderQC/workflow_CheakClass_orderqc_flowOrderQC.py" />
+        <option value="$PROJECT_DIR$/case/workflow_CheakClass_orderqc_flowOrderQC/workflow_CheakClass_orderqc_flowOrderQC_grouping.py" />
+        <option value="$PROJECT_DIR$/case/workflow_CheckClass_complianceApply_FlowComplianceApply/workflow_CheckClass_complianceApply_FlowComplianceApply.py" />
+        <option value="$PROJECT_DIR$/case/workflow_CheckClass_sampleqc_flowSampleQC/workflow_CheckClass_sampleqc_flowSampleQC.py" />
+        <option value="$PROJECT_DIR$/data/NewProductDocument.json" />
+        <option value="$PROJECT_DIR$/data/workflow_PurchasingClass_productquotation_flowProductQuotation.json" />
+        <option value="$PROJECT_DIR$/data/workflow_PurchasingClass_sample_flowSample.json" />
+        <option value="$PROJECT_DIR$/data/workflow_CheckClass_sampleqc_flowSampleQC.json" />
+        <option value="$PROJECT_DIR$/data/workflow_CheckClass_complianceApply_FlowComplianceApply.json" />
+        <option value="$PROJECT_DIR$/data/ProductDocument.json" />
+        <option value="$PROJECT_DIR$/case/ProductDocument.py" />
+        <option value="$PROJECT_DIR$/case/Wokflow/test_flow_new_product/workflow_PurchasingClass_newproduct_flowNewProduct.py" />
+        <option value="$PROJECT_DIR$/data/workflow_PurchasingClass_newproduct_flowNewProduct.json" />
+        <option value="$PROJECT_DIR$/data/workflow_FinancialClass_feepayment_FlowFeePayment.json" />
+        <option value="$PROJECT_DIR$/case/workflow_FinancialClass_feepayment_FlowFeePayment/workflow_FinancialClass_feepayment_FlowFeePayment.py" />
+        <option value="$PROJECT_DIR$/data/test_FlowOrderShippingApply2020-06-16.json" />
+        <option value="$PROJECT_DIR$/data/test_OrderShippingPlan2020-06-16.json" />
+        <option value="$PROJECT_DIR$/data/workflow_FinancialClass_feeregister_FlowFeeRegister_grouping.json" />
+        <option value="$PROJECT_DIR$/case/Wokflow/test_flow_custom_clearance/workflow_PurchasingClass_customclearance_flowCustomClearance_grouping.py" />
+        <option value="$PROJECT_DIR$/case/workflow_ShippingClass_ordershippingplan_FlowOrderShippingPlan/workflow_ShippingClass_ordershippingplan_FlowOrderShippingPlan_grouping.py" />
+        <option value="$PROJECT_DIR$/case/workflow_ShippingClass_ordershippingapply_FlowOrderShippingApply/workflow_ShippingClass_ordershippingapply_FlowOrderShippingApply_grouping.py" />
+        <option value="$PROJECT_DIR$/data/workflow_FinancialClass_feepayment_FlowFeePayment_grouping.json" />
+        <option value="$PROJECT_DIR$/case/workflow_FinancialClass_feepayment_FlowFeePayment/workflow_FinancialClass_feepayment_FlowFeePayment_grouping.py" />
+        <option value="$PROJECT_DIR$/case/workflow_ShippingClass_warehouseplan_FlowWarehousePlan/workflow_ShippingClass_warehouseplan_FlowWarehousePlan_grouping.py" />
+        <option value="$PROJECT_DIR$/case/Wokflow/test_flow_purchase_plan/workflow_PurchasingClass_purchaseplan_flowPurchasePlan_grouping.py" />
+        <option value="$PROJECT_DIR$/case/Wokflow/test_flow_product_quotation/workflow_PurchasingClass_productquotation_flowProductQuotation_grouping.py" />
+        <option value="$PROJECT_DIR$/case/workflow_FinancialClass_feeregister_FlowFeeRegister/workflow_FinancialClass_feeregister_FlowFeeRegister_grouping.py" />
+        <option value="$PROJECT_DIR$/data/test_CustomClearance2020-06-16.json" />
+        <option value="$PROJECT_DIR$/data/test_CustomClearance2020-06-17.json" />
+        <option value="$PROJECT_DIR$/core/config.py" />
+        <option value="$PROJECT_DIR$/core/test1.py" />
+        <option value="$PROJECT_DIR$/core/dbModels.py" />
+        <option value="$PROJECT_DIR$/core/run.py" />
+        <option value="$PROJECT_DIR$/case/test39.py" />
+        <option value="$PROJECT_DIR$/case/test36.py" />
+        <option value="$PROJECT_DIR$/case/test37.py" />
+        <option value="$PROJECT_DIR$/data/workflow_PurchasingClass_purchasecontract_flowPurchaseContract_grouping.json" />
+        <option value="$PROJECT_DIR$/data/workflow_PurchasingClass_purchasecontract_flowPurchaseContract.json" />
+        <option value="$PROJECT_DIR$/case/Wokflow/test_flow_purchase_contract/workflow_PurchasingClass_purchasecontract_flowPurchaseContract.py" />
+        <option value="$PROJECT_DIR$/case/Wokflow/test_flow_purchase_contract/workflow_PurchasingClass_purchasecontract_flowPurchaseContract_grouping.py" />
+        <option value="$PROJECT_DIR$/core/config.ini" />
+        <option value="$PROJECT_DIR$/case/test38.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+              <item name="Wokflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+              <item name="workflow_FinancialClass_feepayment_FlowFeePayment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="var" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web_djo" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\trunk\data" />
+      <recent name="F:\trunk\case" />
+      <recent name="F:\trunk\case\workflow_FinancialClass_feeregister_FlowFeeRegister" />
+      <recent name="F:\trunk\case\workflow_FinancialClass_purchasecontractdeposit_FlowPurchaseContractDeposit" />
+      <recent name="F:\trunk\case\workflow_ShippingClass_asn_FlowAsn" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\trunk\case\Wokflow" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test36">
+    <configuration name="test36" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="trunk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case/test36.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test38.CustomClearance.test_CustomClearance" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="trunk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test38.CustomClearance.test_CustomClearance&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test38.FeeRegister.test_flow_fee_register" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="trunk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test38.FeeRegister.test_flow_fee_register&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test38.purchaseContract" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="trunk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test38.purchaseContract&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test37.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="trunk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/test37.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="trunk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test36" />
+      <item itemvalue="Python tests.Unittests for test38.purchaseContract" />
+      <item itemvalue="Python tests.Unittests for test38.CustomClearance.test_CustomClearance" />
+      <item itemvalue="Python tests.Unittests for test38.FeeRegister.test_flow_fee_register" />
+      <item itemvalue="Python tests.Unittests in test37.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test36" />
+        <item itemvalue="Python tests.Unittests in test37.py" />
+        <item itemvalue="Python tests.Unittests for test38.FeeRegister.test_flow_fee_register" />
+        <item itemvalue="Python tests.Unittests for test38.CustomClearance.test_CustomClearance" />
+        <item itemvalue="Python tests.Unittests for test38.purchaseContract" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d44b894-a317-4bb4-92c4-8e0c98c95247" name="Default" comment="" />
+      <created>1539239904119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539239904119</updated>
+      <workItem from="1545879845426" duration="146000" />
+      <workItem from="1545880009004" duration="81000" />
+      <workItem from="1552351026493" duration="24000" />
+      <workItem from="1556004665203" duration="5641000" />
+      <workItem from="1556067103942" duration="17004000" />
+      <workItem from="1556167831324" duration="9828000" />
+      <workItem from="1556679734545" duration="2194000" />
+      <workItem from="1556758801444" duration="3327000" />
+      <workItem from="1556848246891" duration="645000" />
+      <workItem from="1557121766915" duration="1304000" />
+      <workItem from="1557209724709" duration="388000" />
+      <workItem from="1557211736163" duration="1400000" />
+      <workItem from="1557215914676" duration="830000" />
+      <workItem from="1557366277697" duration="910000" />
+      <workItem from="1557468249412" duration="8398000" />
+      <workItem from="1557815248590" duration="5529000" />
+      <workItem from="1557896527909" duration="2364000" />
+      <workItem from="1557966822792" duration="2935000" />
+      <workItem from="1558053264576" duration="22857000" />
+      <workItem from="1558316315144" duration="767000" />
+      <workItem from="1558317100846" duration="2108000" />
+      <workItem from="1558321010284" duration="2661000" />
+      <workItem from="1558327111362" duration="8383000" />
+      <workItem from="1558397301745" duration="5361000" />
+      <workItem from="1558509259937" duration="2216000" />
+      <workItem from="1558570610649" duration="1614000" />
+      <workItem from="1559022209612" duration="633000" />
+      <workItem from="1559522858816" duration="4655000" />
+      <workItem from="1559891153506" duration="5019000" />
+      <workItem from="1560219679157" duration="6526000" />
+      <workItem from="1560491938572" duration="2082000" />
+      <workItem from="1560751812588" duration="9000" />
+      <workItem from="1560754539152" duration="2990000" />
+      <workItem from="1560933739254" duration="763000" />
+      <workItem from="1561428170655" duration="12465000" />
+      <workItem from="1561510725687" duration="4388000" />
+      <workItem from="1561685175465" duration="18000" />
+      <workItem from="1561697998746" duration="1213000" />
+      <workItem from="1561947818441" duration="2972000" />
+      <workItem from="1562045405859" duration="5512000" />
+      <workItem from="1562051387945" duration="3456000" />
+      <workItem from="1562122427163" duration="10013000" />
+      <workItem from="1562202244964" duration="18062000" />
+      <workItem from="1562288523893" duration="4109000" />
+      <workItem from="1562304358382" duration="7414000" />
+      <workItem from="1562545343679" duration="11348000" />
+      <workItem from="1562831087473" duration="1284000" />
+      <workItem from="1562906132979" duration="4428000" />
+      <workItem from="1563150340746" duration="6229000" />
+      <workItem from="1563415656764" duration="12668000" />
+      <workItem from="1563497013916" duration="16735000" />
+      <workItem from="1563765496627" duration="3205000" />
+      <workItem from="1564390786368" duration="639000" />
+      <workItem from="1564551603153" duration="11262000" />
+      <workItem from="1564618239187" duration="12582000" />
+      <workItem from="1564708871696" duration="17073000" />
+      <workItem from="1564973500795" duration="12200000" />
+      <workItem from="1565056414406" duration="12022000" />
+      <workItem from="1565137870257" duration="1198000" />
+      <workItem from="1565598564717" duration="132000" />
+      <workItem from="1565676594492" duration="4000" />
+      <workItem from="1565676747754" duration="4558000" />
+      <workItem from="1565681342296" duration="6012000" />
+      <workItem from="1565742193516" duration="9104000" />
+      <workItem from="1565831300814" duration="17169000" />
+      <workItem from="1565914858093" duration="13139000" />
+      <workItem from="1566174843116" duration="269000" />
+      <workItem from="1566175134156" duration="283000" />
+      <workItem from="1566175569605" duration="24014000" />
+      <workItem from="1566259950679" duration="13907000" />
+      <workItem from="1566348291833" duration="1617000" />
+      <workItem from="1566810064722" duration="3108000" />
+      <workItem from="1566864594993" duration="14273000" />
+      <workItem from="1566955004923" duration="8004000" />
+      <workItem from="1567057642743" duration="4151000" />
+      <workItem from="1567124664158" duration="17053000" />
+      <workItem from="1567402115744" duration="6691000" />
+      <workItem from="1567469272014" duration="15140000" />
+      <workItem from="1567556423344" duration="3650000" />
+      <workItem from="1567646084377" duration="7407000" />
+      <workItem from="1567729823492" duration="11395000" />
+      <workItem from="1567840397899" duration="4583000" />
+      <workItem from="1567989266010" duration="17674000" />
+      <workItem from="1568074189318" duration="12553000" />
+      <workItem from="1568161459830" duration="15472000" />
+      <workItem from="1568252262706" duration="12976000" />
+      <workItem from="1568619244792" duration="6264000" />
+      <workItem from="1568679017567" duration="11853000" />
+      <workItem from="1568765419063" duration="9716000" />
+      <workItem from="1568870442285" duration="5825000" />
+      <workItem from="1568938402376" duration="15608000" />
+      <workItem from="1569200189638" duration="3557000" />
+      <workItem from="1569311366321" duration="4769000" />
+      <workItem from="1569370225407" duration="5002000" />
+      <workItem from="1569463270055" duration="1387000" />
+      <workItem from="1569479052246" duration="8625000" />
+      <workItem from="1569543360297" duration="15102000" />
+      <workItem from="1569804101947" duration="8695000" />
+      <workItem from="1569897744559" duration="3275000" />
+      <workItem from="1570001079310" duration="4452000" />
+      <workItem from="1570514281680" duration="9665000" />
+      <workItem from="1570582222373" duration="18936000" />
+      <workItem from="1570666620691" duration="6087000" />
+      <workItem from="1570768971661" duration="5799000" />
+      <workItem from="1571033040931" duration="4713000" />
+      <workItem from="1571098591114" duration="7836000" />
+      <workItem from="1571185708477" duration="26154000" />
+      <workItem from="1571271193115" duration="25284000" />
+      <workItem from="1571358159174" duration="1213000" />
+      <workItem from="1571623797581" duration="5657000" />
+      <workItem from="1571726242338" duration="6179000" />
+      <workItem from="1571792569311" duration="8051000" />
+      <workItem from="1571876904115" duration="8161000" />
+      <workItem from="1571972032440" duration="7572000" />
+      <workItem from="1572222004050" duration="2295000" />
+      <workItem from="1572330391656" duration="1298000" />
+      <workItem from="1572399796044" duration="1215000" />
+      <workItem from="1572486224551" duration="1271000" />
+      <workItem from="1572510021406" duration="1163000" />
+      <workItem from="1572569200045" duration="3082000" />
+      <workItem from="1572828651678" duration="7222000" />
+      <workItem from="1572919767178" duration="2705000" />
+      <workItem from="1573088841086" duration="1421000" />
+      <workItem from="1573436746593" duration="1235000" />
+      <workItem from="1573717767515" duration="1747000" />
+      <workItem from="1574659143186" duration="14271000" />
+      <workItem from="1575357474108" duration="2083000" />
+      <workItem from="1575424703882" duration="12391000" />
+      <workItem from="1575516251577" duration="7252000" />
+      <workItem from="1575614006179" duration="3933000" />
+      <workItem from="1575872428497" duration="1537000" />
+      <workItem from="1575955083657" duration="3540000" />
+      <workItem from="1576027000671" duration="13934000" />
+      <workItem from="1576109448475" duration="4311000" />
+      <workItem from="1576217228284" duration="2922000" />
+      <workItem from="1576458022388" duration="17171000" />
+      <workItem from="1576543758408" duration="13806000" />
+      <workItem from="1576629434086" duration="15824000" />
+      <workItem from="1576736073531" duration="11211000" />
+      <workItem from="1576801124968" duration="14783000" />
+      <workItem from="1577077770031" duration="15208000" />
+      <workItem from="1577167855585" duration="10664000" />
+      <workItem from="1577236212839" duration="23932000" />
+      <workItem from="1577319438926" duration="7391000" />
+      <workItem from="1577367574134" duration="992000" />
+      <workItem from="1577405190730" duration="25425000" />
+      <workItem from="1577664725274" duration="8701000" />
+      <workItem from="1577675972734" duration="8771000" />
+      <workItem from="1577943411686" duration="11457000" />
+      <workItem from="1578010660691" duration="16149000" />
+      <workItem from="1578270098133" duration="1728000" />
+      <workItem from="1578632880529" duration="11840000" />
+      <workItem from="1578874321682" duration="15575000" />
+      <workItem from="1578960790000" duration="4302000" />
+      <workItem from="1579065613211" duration="3990000" />
+      <workItem from="1579137417981" duration="2649000" />
+      <workItem from="1579226307751" duration="7550000" />
+      <workItem from="1579478687624" duration="2627000" />
+      <workItem from="1579592814065" duration="660000" />
+      <workItem from="1583109137516" duration="2369000" />
+      <workItem from="1583826321548" duration="3786000" />
+      <workItem from="1583896523036" duration="14098000" />
+      <workItem from="1583981574129" duration="11628000" />
+      <workItem from="1584063857883" duration="3185000" />
+      <workItem from="1584319383643" duration="6048000" />
+      <workItem from="1584405227136" duration="13492000" />
+      <workItem from="1584512497703" duration="9389000" />
+      <workItem from="1584577770687" duration="2331000" />
+      <workItem from="1584607798504" duration="1802000" />
+      <workItem from="1584686876883" duration="8429000" />
+      <workItem from="1584945208698" duration="10601000" />
+      <workItem from="1585031454160" duration="7130000" />
+      <workItem from="1585102897690" duration="5224000" />
+      <workItem from="1585211128281" duration="4451000" />
+      <workItem from="1585530590928" duration="12431000" />
+      <workItem from="1585705705967" duration="1205000" />
+      <workItem from="1585791097149" duration="1319000" />
+      <workItem from="1586152544263" duration="12495000" />
+      <workItem from="1586228641767" duration="12399000" />
+      <workItem from="1586310510285" duration="13155000" />
+      <workItem from="1586399775909" duration="7883000" />
+      <workItem from="1586843570861" duration="2126000" />
+      <workItem from="1586847555229" duration="6047000" />
+      <workItem from="1586919560769" duration="3397000" />
+      <workItem from="1587086192858" duration="5695000" />
+      <workItem from="1587341574490" duration="1504000" />
+      <workItem from="1587437647745" duration="2292000" />
+      <workItem from="1587609848280" duration="1976000" />
+      <workItem from="1587947266737" duration="667000" />
+      <workItem from="1588667231609" duration="1580000" />
+      <workItem from="1589155976446" duration="2517000" />
+      <workItem from="1589528786312" duration="5138000" />
+      <workItem from="1589760830473" duration="8924000" />
+      <workItem from="1589877966526" duration="1179000" />
+      <workItem from="1590048576628" duration="3552000" />
+      <workItem from="1590388205699" duration="3710000" />
+      <workItem from="1590477934928" duration="1481000" />
+      <workItem from="1590647434539" duration="1972000" />
+      <workItem from="1590650914787" duration="7551000" />
+      <workItem from="1590713784398" duration="7451000" />
+      <workItem from="1590970628778" duration="969000" />
+      <workItem from="1591083413252" duration="1181000" />
+      <workItem from="1591146009056" duration="7194000" />
+      <workItem from="1591318841357" duration="1274000" />
+      <workItem from="1591685865810" duration="599000" />
+      <workItem from="1591757144606" duration="2043000" />
+      <workItem from="1592190711327" duration="6236000" />
+      <workItem from="1592270411827" duration="15421000" />
+      <workItem from="1592375234495" duration="8060000" />
+      <workItem from="1592464113211" duration="5516000" />
+      <workItem from="1592532069718" duration="5253000" />
+      <workItem from="1592786230983" duration="10081000" />
+      <workItem from="1592876902341" duration="2151000" />
+      <workItem from="1592981406930" duration="658000" />
+      <workItem from="1593050492012" duration="3993000" />
+      <workItem from="1593150582836" duration="3058000" />
+      <workItem from="1593390357785" duration="4548000" />
+      <workItem from="1593498614319" duration="614000" />
+      <workItem from="1593565631422" duration="598000" />
+      <workItem from="1593677555130" duration="710000" />
+      <workItem from="1593742931056" duration="610000" />
+      <workItem from="1594024098158" duration="599000" />
+      <workItem from="1594109712705" duration="610000" />
+      <workItem from="1594188727620" duration="607000" />
+      <workItem from="1594273971595" duration="609000" />
+      <workItem from="1594599421927" duration="2103000" />
+      <workItem from="1594625509215" duration="622000" />
+      <workItem from="1594705680033" duration="611000" />
+      <workItem from="1594794097540" duration="1228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test38_sample_test_Sample - 2020.06.22 at 15h 56m 36s.xml">
+      <configuration name="Unittests for test38.sample.test_Sample" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test38_sample_test_Sample - 2020.06.22 at 15h 58m 30s.xml">
+      <configuration name="Unittests for test38.sample.test_Sample" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test38_purchasePlan_test_PurchasePlan - 2020.06.22 at 16h 01m 02s.xml">
+      <configuration name="Unittests for test38.purchasePlan.test_PurchasePlan" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test38_purchasePlan - 2020.06.22 at 16h 03m 45s.xml">
+      <configuration name="Unittests for test38.purchasePlan" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test38_purchaseContract - 2020.06.22 at 16h 08m 06s.xml">
+      <configuration name="Unittests for test38.purchaseContract" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test38_CustomClearance_test_CustomClearance - 2020.06.22 at 16h 14m 17s.xml">
+      <configuration name="Unittests for test38.CustomClearance.test_CustomClearance" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test38_FeeRegister_test_flow_fee_register - 2020.06.22 at 17h 25m 23s.xml">
+      <configuration name="Unittests for test38.FeeRegister.test_flow_fee_register" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test38_FeeRegister_test_flow_fee_register - 2020.06.22 at 17h 31m 31s.xml">
+      <configuration name="Unittests for test38.FeeRegister.test_flow_fee_register" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test37_py - 2020.06.29 at 08h 33m 06s.xml">
+      <configuration name="Unittests in test37.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test37_py - 2020.07.13 at 08h 22m 58s.xml">
+      <configuration name="Unittests in test37.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1478461000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31663114" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.23593074" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39502165" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010661" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32987553" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32987553" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/test_PurchaseContract2020-06-16.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_FlowOrderShippingApply2020-06-16.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_OrderShippingPlan2020-06-16.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/workflow_FinancialClass_feeregister_FlowFeeRegister_grouping.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/Wokflow/test_flow_custom_clearance/workflow_PurchasingClass_customclearance_flowCustomClearance_grouping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="465" column="16" selection-start-line="465" selection-start-column="16" selection-end-line="465" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/workflow_FinancialClass_feepayment_FlowFeePayment_grouping.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/workflow_FinancialClass_feepayment_FlowFeePayment/workflow_FinancialClass_feepayment_FlowFeePayment_grouping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="1372" selection-start-line="1372" selection-end-line="1372" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/workflow_ShippingClass_warehouseplan_FlowWarehousePlan_grouping.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_FlowFeePayment2020-06-16.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/workflow_ShippingClass_warehouseplan_FlowWarehousePlan/workflow_ShippingClass_warehouseplan_FlowWarehousePlan_grouping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="63" column="38" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/Wokflow/test_flow_purchase_plan/workflow_PurchasingClass_purchaseplan_flowPurchasePlan_grouping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="815" column="36" lean-forward="true" selection-start-line="815" selection-start-column="36" selection-end-line="815" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/Wokflow/test_flow_product_quotation/workflow_PurchasingClass_productquotation_flowProductQuotation_grouping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="463" column="13" selection-start-line="463" selection-start-column="13" selection-end-line="463" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/workflow_CheakClass_orderqc_flowOrderQC/workflow_CheakClass_orderqc_flowOrderQC_grouping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6040">
+          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/workflow_ShippingClass_asn_FlowAsn/workflow_ShippingClass_asn_FlowAsn_grouping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4807">
+          <caret line="13" column="52" lean-forward="true" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/workflow_ShippingClass_ordershippingapply_FlowOrderShippingApply/workflow_ShippingClass_ordershippingapply_FlowOrderShippingApply_grouping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/workflow_ShippingClass_ordershippingplan_FlowOrderShippingPlan/workflow_ShippingClass_ordershippingplan_FlowOrderShippingPlan_grouping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="381" column="16" selection-start-line="381" selection-start-column="16" selection-end-line="381" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/NewProductDocument.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="480" column="29" lean-forward="true" selection-start-line="480" selection-start-column="29" selection-end-line="480" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_flowFeeRegister2020-06-16.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/workflow_FinancialClass_purchasecontractdeposit_FlowPurchaseContractDeposit/workflow_FinancialClass_purchasecontractdeposit_FlowPurchaseContractDeposit.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/workflow_FinancialClass_feeregister_FlowFeeRegister/workflow_FinancialClass_feeregister_FlowFeeRegister_grouping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3939">
+          <caret line="279" lean-forward="true" selection-start-line="279" selection-end-line="279" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/libs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12484.27574/sample.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12484.28827/test_make_report.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12484.33233/BeautifulReport.py" />
+    <entry file="file://$PROJECT_DIR$/case/测试报告.html" />
+    <entry file="file://$PROJECT_DIR$/case/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_CustomClearance2020-06-17.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="37" column="66" selection-start-line="37" selection-start-column="57" selection-end-line="37" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="773">
+          <caret line="152" column="35" selection-start-line="152" selection-start-column="35" selection-end-line="152" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/dbModels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test39.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/workflow_PurchasingClass_purchasecontract_flowPurchaseContract_grouping.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/workflow_PurchasingClass_purchasecontract_flowPurchaseContract.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/Wokflow/test_flow_purchase_contract/workflow_PurchasingClass_purchasecontract_flowPurchaseContract_grouping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="548" column="21" selection-start-line="548" selection-start-column="21" selection-end-line="548" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/Wokflow/test_flow_product_quotation/workflow_PurchasingClass_productquotation_flowProductQuotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="654" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/Wokflow/test_flow_new_product/workflow_PurchasingClass_newproduct_flowNewProduct.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="1018" selection-end-line="1018" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/Wokflow/test_flow_sample/workflow_PurchasingClass_sample_flowSample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="618" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/Wokflow/test_flow_purchase_plan/workflow_PurchasingClass_purchaseplan_flowPurchasePlan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1011" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/Wokflow/test_flow_purchase_contract/workflow_PurchasingClass_purchasecontract_flowPurchaseContract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="1663" selection-end-line="1663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/Wokflow/test_flow_custom_clearance/workflow_PurchasingClass_customclearance_flowCustomClearance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="22" column="30" lean-forward="true" selection-end-line="652" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/workflow_FinancialClass_feepayment_FlowFeePayment.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10684.17509/run.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10684.18793/config.py" />
+    <entry file="file://$PROJECT_DIR$/core/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test38.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1978">
+          <caret line="86" column="17" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test37.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <element signature="e#17#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test36.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="e#13#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/workflow_FinancialClass_feepayment_FlowFeePayment/workflow_FinancialClass_feepayment_FlowFeePayment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="147" column="31" selection-start-line="147" selection-start-column="18" selection-end-line="147" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+{
+"login":[{"username":"Sophia","password":"123"},{"username":"Mimi_cn","password":"123"},{"username":"Vic_cn","password":"123"},{"username":"Jack.L","password":"123"},{"username":"emma","password":"123"},{"username":"Jack.L","password":"123"}],
+"use_vendorname":[{"name":""},{"name":"武义"}],
+"cnLanguage":[{"key":"财务类"},{"key":"费用支付申请"},{"key":"费用登记"},{"key":"待办事项"},{"key":"没有数据！"},{"key":"操作提示流程已启动"},{"key":"操作提示操作成功"},{"key":"注销"},{"key":"是"},{"key":"预付合同尾款"}],
+"enLanguage":[{"key":"Finance Application"},{"key":"Payment"},{"key":"Payment Voucher"},{"key":"Task"},{"key":"No data has been provided"},{"key":"OperationProcess started"},{"key":"Operationoperate success"},{"key":"Logout"},{"key":"Yes"},{"key":"Contract Balance PrePayment"}]
+}
+

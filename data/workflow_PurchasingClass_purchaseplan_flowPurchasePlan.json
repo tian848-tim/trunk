@@ -1,0 +1,10 @@
+{
+"login":[{"username":"Sophia","password":"123"},{"username":"Mimi_cn","password":"123"},{"username":"Vic_cn","password":"123"},{"username":"Jack.L","password":"123"}],
+"use_vendorname":[{"name":""},{"name":"武义"}],
+"skuname":[{"sku":""}],
+"quotation":[{"key":"1"}],
+"keywords":[{"key":""}],
+"leadTime":[{"key":"2"}],
+"cnLanguage":[{"key":"采购计划申请"},{"key":"待办事项"},{"key":"没有数据！"},{"key":"相关报告"},{"key":"产品分析报告"},{"key":"操作提示流程已启动"},{"key":"操作提示操作成功"},{"key":"注销"},{"key":"是"}],
+"enLanguage":[{"key":"Purchase Plan Application"},{"key":"Task"},{"key":"No data has been provided"},{"key":"Application Reports"},{"key":"Product Analysis Report"},{"key":"OperationProcess started"},{"key":"Operationoperate success"},{"key":"Logout"},{"key":"Yes"}]
+}

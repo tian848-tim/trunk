@@ -1,0 +1,5 @@
+{
+"login":[{"username":"Vic_cn","password":"123"},{"username":"Jack.L","password":"123"}],
+"cnLanguage":[{"key":"归属权变更申请"},{"key":"待办事项"},{"key":"操作提示流程已启动"},{"key":"操作提示操作成功"},{"key":"注销"},{"key":"是"}],
+"enLanguage":[{"key":"Change Ownership"},{"key":"Task"},{"key":"OperationProcess started"},{"key":"Operationoperate success"},{"key":"Logout"},{"key":"Yes"}]
+}

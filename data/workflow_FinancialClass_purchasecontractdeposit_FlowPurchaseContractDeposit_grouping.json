@@ -1,0 +1,11 @@
+{
+"login":[{"username":"emma","password":"123"},{"username":"Mimi_cn","password":"123"},{"username":"Vic_cn","password":"123"},{"username":"Jack.L","password":"123"},{"username":"emma","password":"123"},{"username":"dickson","password":"123"}],
+"use_vendorname":[{"name":"安吉博康家具有限公司"},{"name":"武义"}],
+"container":[{"key":"20"}],
+"originPort":[{"key":"宁波"}],
+"balancePayment":[{"key":"开船前"}],
+"itemId":[{"key":""}],
+"price":[{"key":""}],
+"settlement":[{"key":""}],
+"writeoffMethod":[{"key":"合同尾款内"}]
+}
